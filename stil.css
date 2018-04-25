@@ -1,0 +1,41 @@
+div{
+	background-color:white;
+	width:1000px;
+	height:40px;
+	font:bold;
+	color:white;
+	text-align:center;
+}
+#menu{
+	background-color:blue;
+	margin:0 auto;
+}
+#menu ul{
+	list-style-type:none;
+	font-family:Arial,Sans-serif;
+	margin-left:200px;
+}
+#menu ul li{
+	float:left;
+	padding:15px;
+	font:text-align-center;
+}
+#menu ul  li:hover{
+	background-color:black;
+}
+
+#baris {
+	padding:50px;
+	width:50px;
+	height:50px;
+	background-color:red;
+	border:5px solid black;
+}
+#onur {
+	margin:50px;
+	width:50px;
+	height:50px;
+	background-color:blue;
+	border:5px solid black;
+	
+}
